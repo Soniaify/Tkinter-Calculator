@@ -30,7 +30,7 @@ It supports **basic arithmetic operations**, **trigonometric functions** (sin, c
 ## How to Run
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/tkinter-calculator.git
+   git clone https://github.com/Soniaify/tkinter-calculator.git
    cd tkinter-calculator
 2. **Run the script**:
 python calculator.py
